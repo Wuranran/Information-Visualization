@@ -1,4 +1,6 @@
-# 案例001｜The Treehouse of Adulthood 信息图分析报告
+# 案例001｜《The Treehouse of Adulthood》｜层级型｜无标准统计图形
+
+> **命名说明**：本案例按「案例编号-《具体名称》-五大分类-主要统计图形」归档；如不使用标准统计图则如实标记，不表示原作者使用 RAWGraphs 软件。
 
 - **案例编号**：001
 - **作品标题**：The Treehouse of Adulthood（成年人的树屋）

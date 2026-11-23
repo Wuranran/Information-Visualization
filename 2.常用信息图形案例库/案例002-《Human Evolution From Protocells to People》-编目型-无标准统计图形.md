@@ -1,4 +1,6 @@
-# 案例002｜Human Evolution: From Protocells to People 信息图分析报告
+# 案例002｜《Human Evolution From Protocells to People》｜编目型｜无标准统计图形
+
+> **命名说明**：本案例按「案例编号-《具体名称》-五大分类-主要统计图形」归档；如不使用标准统计图则如实标记，不表示原作者使用 RAWGraphs 软件。
 
 - **案例编号**：002
 - **作品标题**：Human Evolution: From Protocells to People（人类演化：从原始细胞到现代人）

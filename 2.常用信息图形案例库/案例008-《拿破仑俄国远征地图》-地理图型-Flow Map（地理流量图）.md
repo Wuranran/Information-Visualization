@@ -1,4 +1,6 @@
-# 案例008｜米纳德《拿破仑俄国远征地图》信息图分析报告
+# 案例008｜《拿破仑俄国远征地图》｜地理图型｜Flow Map（地理流量图）
+
+> **命名说明**：本案例按「案例编号-《具体名称》-五大分类-主要统计图形」归档；如不使用标准统计图则如实标记，不表示原作者使用 RAWGraphs 软件。
 
 - **案例编号**：008
 - **原作标题**：Carte figurative des pertes successives en hommes de l’Armée Française dans la campagne de Russie 1812–1813

@@ -1,4 +1,6 @@
-# 案例007｜Top 100 Billionaires' Wealth Distribution 信息图分析报告
+# 案例007｜《全球百大富豪财富分布》｜层级型｜Treemap（矩形树图）
+
+> **命名说明**：本案例按「案例编号-《具体名称》-五大分类-主要统计图形」归档；如不使用标准统计图则如实标记，不表示原作者使用 RAWGraphs 软件。
 
 - **案例编号**：007
 - **作品原题**：How much wealth do the world's richest billionaires have?

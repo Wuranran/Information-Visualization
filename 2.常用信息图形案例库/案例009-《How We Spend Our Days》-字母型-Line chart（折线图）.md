@@ -1,4 +1,6 @@
-# 案例009｜How We Spend Our Days 信息图分析报告
+# 案例009｜《How We Spend Our Days》｜字母型｜Line chart（折线图）
+
+> **命名说明**：本案例按「案例编号-《具体名称》-五大分类-主要统计图形」归档；如不使用标准统计图则如实标记，不表示原作者使用 RAWGraphs 软件。
 
 - **案例编号**：009
 - **英文标题**：How We Spend Our Days
